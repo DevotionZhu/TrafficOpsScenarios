@@ -1,0 +1,13 @@
+Package: TrafficOpsScenarios
+Type: Package
+Title: Summarize Traffic Operations Results by Scenario
+Version: 0.1.0
+Author: Mat Dolata
+Maintainer: <dolatamat@hotmail.com>
+Description: Import intersection traffic operations results.  
+    Visualize results by scenario.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Import:
+   ggplot2,readxl,devtools
